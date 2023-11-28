@@ -1,0 +1,13 @@
+/* Import color variables */
+@import 'colors.css';
+
+/* Style the dashboard components */
+/* Example: Style the header */
+h1 {
+  color: var(--navy-blue);
+  background-color: var(--pastel-green);
+  /* Add more styles as needed */
+}
+
+/* Other component styles */
+/* Adjust styles for each component or section in your dashboard */
